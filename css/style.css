@@ -1,0 +1,12 @@
+.carousel-inner > .item > img,
+.carousel-inner > .item > a > img {
+  width: 80%;
+  margin:0 auto;
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+
+}
+
+.carousel {
+   background-color: transparent;
+}
